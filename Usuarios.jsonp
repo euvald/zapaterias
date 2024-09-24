@@ -1,0 +1,20 @@
+misdatos([
+    {
+        "Folio":1,
+        "Descripcion": "Tenis",
+        "Talla":25,
+        "precio":899,
+    },
+    {
+        "Folio":2,
+        "Descripcion": "capatos",
+        "Talla":25,
+        "precio":899,
+    },
+    {
+        "Folio":3,
+        "Descripcion": "Tenis",
+        "Talla":25,
+        "precio":899,
+    },
+])
